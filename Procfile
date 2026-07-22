@@ -1,1 +1,0 @@
-worker:puthon main.py
