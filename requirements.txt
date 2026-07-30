@@ -1,2 +1,0 @@
-discprd.py
-pytz
